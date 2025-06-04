@@ -1,10 +1,13 @@
+# Talento Tech - Backend Node.js 2025
+Este repositorio contiene los ejercicios desarrollados durante el curso **Talento Tech - Backend con Node.js**
+
 # API de Productos con FakeStore - 'https://fakestoreapi.com/docs'
 
 ## ¿Qué hace la app?
 Esta aplicación permite interactuar con la API de FakeStore para gestionar productos.  
 Podés obtener la lista completa de productos, consultar un producto específico por ID, crear un nuevo producto y eliminar un producto existente mediante comandos en la terminal.
 
-## ¿Cómo se instala?
+## ¿Cómo utilizar este repositorio?
 Primero, cloná el repositorio y luego instalá las dependencias con:
 npm install
 
